@@ -19,7 +19,7 @@
     "url": "https://github.com/jesmak/MMM-FlightRadarTracker/issues"
   },
   "dependencies": {
-    "flightradar24-client": "^0.3.0",
+    "flightradar24-client": "^1.0.1",
     "geolocation-utils": "^1.2.2",
     "csv-parse": "^4.6.5"
   }
